@@ -1,0 +1,65 @@
+# <Standard> StevenBlack - Hostlist (Status: OK)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Sunshine.it - Blocklist (Status: OK) | 99443 domains
+https://www.sunshine.it/blacklist.txt
+
+# RPiList - Malware List (Status: OK) | 82108 domains
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+
+# RPiList - Not Serious (Status: OK) | 528241 domains
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
+
+# RPiList - Anti Domain Squatting (Status: OK) | 90547 domains
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting
+
+# RPiList - Anti Phishing #1 (Status: OK) | 503610 domains
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+
+# RPiList - Anti Phishing #2 (Status: OK) | 1122 domains
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+
+# Blocklistproject - Adlist (Status: OK) | 154562 domains
+https://blocklistproject.github.io/Lists/ads.txt
+
+# Blocklistproject - Tracking (Status: OK) | 15051 domains
+https://blocklistproject.github.io/Lists/tracking.txt
+
+# Justdomains - Blacklist (Status: OK) | 17953 domains
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
+
+# Justdomains - Anti Tracking (Status: OK) | 16970 domains
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+
+# Justdomains - Adlist (Status: OK) | 42773 domains
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+
+# Justdomains - Anti BCM (Status: OK) | 698 domains
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+
+# Anti Spotify Ads (Status: OK) | 37 domains
+https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
+
+# Spam 404 (Status: OK) | 8148 domains
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/spam404.com/list.txt
+
+# AdAway (Status: OK) | 7047 domains
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt
+
+# WIN Telemetry (Status: Not flawless) | 349 domains (INVALID: 10)
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
+
+# Simple Ads (Status: OK) | 2701 domains
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+# Simple Tracking (Status: OK) | 34 domains
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+# Abuse.ch - Suspicious, Malicious and more... (Status: OK) | 1238 domains
+https://urlhaus.abuse.ch/downloads/hostfile/
+
+# OSINT - Blocklist (Status: OK) | 1053 domains
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+
+# OISD - Ads, Phishing, Malware, and more... (Status: OK) | 1538118 domains
+https://dbl.oisd.nl/
