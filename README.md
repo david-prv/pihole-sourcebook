@@ -1,4 +1,4 @@
-# pihole-adlists
+# pihole-sourcebook
 My regularly maintained adlist sourcebook for your pi hole
 
 ## Total Domains: 3.038.621
